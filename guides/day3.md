@@ -8,7 +8,8 @@ Open the shell if you aren’t in it and install the framework:
 
 ```
 pipenv install djangorestframework
-```
+```pipenv install django-heroku
+django-heroku
 
 Next, we need to tell the project about this.  Open
 `[name_of_project]/settings.py`
